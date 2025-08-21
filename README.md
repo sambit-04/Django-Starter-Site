@@ -60,10 +60,10 @@ A basic Django starter project with templates, static files, media handling, and
 ---
 
 ## 📊 Coverage & Reports
+
+To view detailed test coverage, download the **coverage-report artefact** from your GitHub Actions run and open `index.html` inside `htmlcov/` in your browser.
 - Live Coverage Badge: [![codecov](https://codecov.io/gh/sambit-04/django-starter-site/branch/main/graph/badge.svg)](https://codecov.io/gh/sambit-04/django-starter-site)
 - Full Coverage Report: [View Here](https://sambit-04.github.io/django-starter-site/coverage/)
-📊 To view detailed test coverage, download the **coverage-report artefact** from your GitHub Actions run and open `index.html` inside `htmlcov/` in your browser.
-
 
 ---
 
